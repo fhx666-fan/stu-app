@@ -1,2 +1,2 @@
-# stu-app
-学生端
+# exercise
+学生端和管理员端
